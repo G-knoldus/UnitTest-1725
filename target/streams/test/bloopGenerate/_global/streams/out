@@ -1,0 +1,4 @@
+[debug] [ut_it_assign_1725-test] Classpath dependencies List()
+[debug] [ut_it_assign_1725-test] Dependencies from configurations List(ut_it_assign_1725)
+[debug] Bloop wrote the configuration of project 'ut_it_assign_1725-test' to '/home/knoldus/IdeaProjects/UT_IT_1725/ut_it_assign_1725/.bloop/ut_it_assign_1725-test.json'
+[success] Generated .bloop/ut_it_assign_1725-test.json
